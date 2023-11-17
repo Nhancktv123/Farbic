@@ -207,7 +207,7 @@
             ?>">
                <i  class="material-symbols-outlined">diversity_3</i>
               <p>
-                Staff
+                Staffe
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
