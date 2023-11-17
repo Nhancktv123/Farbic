@@ -198,7 +198,7 @@
             </ul>
           </li>
           <!-- buy sidebar  -->
-           <!-- <li class="nav-item has-treeview">
+           <li class="nav-item has-treeview">
             <a href="#" class="nav-link <?php 
               if ($actual_link == 'add_stuff' || $actual_link =='staff_list') {echo "active";
           }else{
@@ -225,7 +225,7 @@
                 </a>
               </li>
             </ul>
-          </li> -->
+          </li>
         
            <li class="nav-item has-treeview">
             <a href="#" class="nav-link <?php 
