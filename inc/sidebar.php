@@ -199,7 +199,7 @@
           </li>
           <!-- buy sidebar  -->
            <li class="nav-item has-treeview">
-            <a href="#" class="nav-link <?php 
+            <a href="#" class="nav-link <?php
               if ($actual_link == 'add_stuff' || $actual_link =='staff_list') {echo "active";
           }else{
             echo "";
@@ -207,7 +207,7 @@
             ?>">
                <i  class="material-symbols-outlined">diversity_3</i>
               <p>
-                Staff
+                Staffeee
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
